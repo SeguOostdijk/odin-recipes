@@ -1,4 +1,4 @@
 # odin-recipes
-Sitio web de recetas hecho con HTML básico. 
+Recipe website wih basic HTML. 
 
-Proyecto del "foundations course" de The Odin Project.
+Project from "foundations course" of The Odin Project.
